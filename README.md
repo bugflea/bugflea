@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image alt](https://github.com/bugflea/A1/blob/main/App/c3b8f4c6-2bbd-4b9e-b2ec-631fb1b47c07.png)
+
+---
